@@ -1,5 +1,5 @@
 # QA Test Plan — Bolivia Booking Go
-**Materia:** Quality Assurance | **Institución:** UCB San Pablo  
+**Materia:** Quality Assurance
 **API:** Restful-Booker | **Herramienta:** Postman + Newman
  
 ---
@@ -10,7 +10,6 @@ La startup **Bolivia Booking Go** necesita certificar su API de reservas antes d
  
 - **Documentación API:** https://restful-booker.herokuapp.com/apidoc/index.html  
 - **Base URL:** `https://restful-booker.herokuapp.com`  
-- **Duración:** 2 semanas | **Equipo:** 1 QA
 ---
  
 ## Alcance
