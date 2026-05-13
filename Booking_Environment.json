@@ -1,0 +1,58 @@
+{
+	"id": "af600b14-13e8-4cb5-a6d9-da703cc23c51",
+	"name": "BOLBookingenv",
+	"values": [
+		{
+			"key": "firstname",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastname",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "totalprice",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "depositpaId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "checkin",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "checkout",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "additionalneeds",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "auth_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-13T03:21:58.776Z",
+	"_postman_exported_using": "Postman/12.10.1"
+}
